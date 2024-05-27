@@ -1,2 +1,1 @@
-
-<img width="591" alt="Screenshot 2023-05-02 191437" src="https://github.com/jpatitucci2018/m3-hw3-Patitucci-Julia/assets/169549608/cb31fd5c-9113-44e1-b50b-e50876dc8bd9">
+<img width="278" alt="lighthouse report" src="https://github.com/jpatitucci2018/m3-hw3-Patitucci-Julia/assets/169549608/0327fc02-beea-4b98-8b0e-5dac51c8488a">
